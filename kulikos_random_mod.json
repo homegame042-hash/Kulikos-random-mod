@@ -1,0 +1,17 @@
+{
+  "id": "kulikos_random_mod",
+  "name": "kuliko's random mod",
+  "author": [
+    "kuliko"
+  ],
+  "description": "adds a bunch of random stuff",
+  "prefix": "kulikosr",
+  "main_file": "main.lua",
+  "version": "0.1.0",
+  "priority": 0,
+  "badge_colour": "666665",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
